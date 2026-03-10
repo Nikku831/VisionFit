@@ -109,10 +109,9 @@ class AuroraHeader(tk.Canvas):
     def __init__(self, master, clock: Clock, **kw):
         super().__init__(master, highlightthickness=0, bd=0, bg=BG, **kw)
         self._tw_messages = [
-            "AI-Powered Fitness Activity Analysis",
-            "Real-time Pose Estimation & Tracking",
-            "Powered by Computer Vision",
-            "Smart Workout Insights",
+            "Feature Tracking Based Motion Analysis",
+            "Powered by traditional Computer Vision",
+            "Automatic Video Annotation",
         ]
         self._tw_mi   = 0
         self._tw_ci   = 0

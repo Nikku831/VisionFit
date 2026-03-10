@@ -13,6 +13,18 @@ VisionFit is a desktop application that analyses exercise videos using a **class
 
 ---
 
+## Screenshots
+
+![VisionFit UI](docs/screenshot1.png)
+
+
+![VisionFit UI](docs/screenshot2.png)
+
+
+![VisionFit UI](docs/screenshot3.png)
+
+---
+
 ## Team & Contributions
 
 | Member | Roll Number | Module |
